@@ -1,6 +1,3 @@
-Claro. Aquí tienes el contenido organizado y listo para copiar en un archivo `README.md`:
-
-````
 # Gym Members Exercise Tracking Dataset
 
 ## About the Dataset
@@ -81,7 +78,3 @@ gym_members_exercise_tracking.csv
 
  Please refer to the applicable license terms before redistributing or modifying the dataset.
 
-```
-
-Si quieres, también puedo convertirlo en un **README más profesional para GitHub**, con secciones de instalación, ejemplos de Python/Pandas, visualizaciones y resultados del análisis.
-```
