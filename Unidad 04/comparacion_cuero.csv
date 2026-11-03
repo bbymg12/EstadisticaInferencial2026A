@@ -1,0 +1,16 @@
+*Comparación de cuatro tipos de cuero:* 
+Un fabricante de calzado desea mejorar la calidad de las suelas, 
+las cuales se pueden hacer con uno de los cuatro tipos de cuero A, B, C y D disponibles en el mercado.
+Para ello, prueba los cueros con una máquina que hace pasar los zapatos por una superficie abrasiva; 
+la suela de éstos se desgasta al pasarla por dicha superficie. 
+Como criterio de desgaste se usa la pérdida de peso después de un número fijo de ciclos. 
+Se prueban en orden aleatorio 24 zapatos, seis de cada tipo de cuero.
+Al hacer las pruebas en orden completamente al azar se evitan sesgos y las mediciones en un tipo de cuero resultan independientes de las demás.
+Los datos (en miligramos) sobre el desgaste de cada tipo de cuero se muestran en la tabla.
+
+| Tipo de cuero | Observaciones                  | Promedio |
+|---------------|--------------------------------|----------|
+| A             | 264, 260, 258, 241, 262, 255 | 256.7    |
+| B             | 208, 220, 216, 200, 213, 206 | 209.8    |
+| C             | 220, 263, 219, 225, 230, 228 | 230.8    |
+| D             | 217, 226, 215, 227, 220, 222 | 220.7    |
